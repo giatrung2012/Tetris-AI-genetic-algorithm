@@ -1,3 +1,6 @@
+## File báo cáo & thuyết trình
+[Ứng dụng giải thuật di truyền vào game xếp hình Tetris](https://github.com/giatrung2012/Tetris-AI-genetic-algorithm/tree/main/docs)
+
 ## Hướng dẫn sử dụng
 
 Clone project này về máy tính của bạn và mở file **index.html**, chương trình sẽ xuất hiện trên nền web.
